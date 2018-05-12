@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EndpointAudioLiveStream</string>
+    <string name="stream_play">Stream</string>
+</resources>
